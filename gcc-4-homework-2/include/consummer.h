@@ -1,0 +1,1 @@
+void consummer(int *a);
